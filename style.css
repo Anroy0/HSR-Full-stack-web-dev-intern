@@ -1,0 +1,65 @@
+* {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+}
+
+.trdbody {
+      margin-top: 40px;
+      padding: 20px;
+      border: 5px;
+      display: flex;
+      border-radius: 13px solid black;
+      justify-content: space-evenly;
+      background-color: rgb(36, 32, 32);
+}
+
+.card {
+      margin: 10px;
+      background-color: bisque;
+
+}
+
+.cardtwo {
+      border-radius: 50px solid black;
+      padding: 20px;
+
+}
+
+.skill {
+      display: flex;
+      justify-content: space-evenly;
+
+}
+
+.skill-card {
+      display: flex;
+      margin: auto;
+      justify-content: space-evenly;
+      background-color: aliceblue;
+      margin-right: 2rem;
+      padding: 2rem;
+      text-align: center;
+}
+
+.card-profile {
+      border: 5px solid white;
+      background-color: rgb(191, 190, 190);
+      border-radius: 10px;
+      color: rgb(64, 62, 60);
+
+}
+
+.main-pro {
+      background-image: url(pexels-pixabay-417173.jpg);
+      background-size: cover;
+      width: 912px;
+      height: 500px;
+      text-align: center;
+      color: azure;
+
+}
+
+.card-body {
+      text-align: center;
+}
